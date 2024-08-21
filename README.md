@@ -10,3 +10,6 @@ Workshop: Inteligência de dados para soluções agroclimáticas
 Aplicativo: https://eliana-ufrgs.users.earthengine.app/view/monitora
 
 Código: https://code.earthengine.google.com/d44e822dcb0bce084c70555dc85d1a6f
+
+Apresentação: https://docs.google.com/presentation/d/1kC1atBxZkX2N-auD8IFObjIUVIaTsZeGCaAX8uHICPQ/edit?usp=sharing
+
