@@ -1,9 +1,4 @@
-Expointer2024 - Esteio - RS - Brasil
-
-
-RS Innovation Agro - Inteligência de dados para soluções agroclimáticas
-
-<img width="614" alt="image" src="https://github.com/user-attachments/assets/4c517693-1025-4da9-ba88-e9677469cd59">
+<img width="613" alt="image" src="https://github.com/user-attachments/assets/f20eae43-d503-45c0-882f-5a9e76d522af">
 
 Aplicativo: https://eliana-ufrgs.users.earthengine.app/view/monitora
 
